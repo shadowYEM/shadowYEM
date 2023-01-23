@@ -7,7 +7,7 @@
 
 ---
 
-[![spyder github activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadowYEM&theme=radical&hide_border=true)](https://github.com/shadowYEM)
+
 
 
 ### 📊 Some Fun Stats:
