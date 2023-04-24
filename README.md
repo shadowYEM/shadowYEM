@@ -1,7 +1,7 @@
 ## Hello, I'm [ Eng RASHEED AL-QADHI .] :raised_hand_with_fingers_splayed:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79A00&center=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&vCenter=%D8%AE%D8%A7%D8%B7%D8%A6%D8%A9&multiline=true&repeat=%D8%AD%D9%82%D9%8A%D9%82%D9%8A&width=435&lines=I'm+a+Data+Scientist+With+Python+and;Data+Science+For+Marketing+Analyst)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=%D8%AD%D9%82%D9%8A%D9%82%D9%8A&vCenter=%D8%AE%D8%B7%D8%A3+%D8%B4%D9%86%D9%8A%D8%B9&multiline=true&repeat=%D8%AD%D9%82%D9%8A%D9%82%D9%8A&width=435&height=63&lines=I'm+a+Data+Scientist+With+Python+and+;Data+Science+For+Marketing+Analyst)](https://git.io/typing-svg)
+ 
 ## just a Introduction: 
 
 
