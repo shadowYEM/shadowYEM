@@ -11,7 +11,8 @@
 
 
 ### 📊 Some Fun Stats:
-| ![image](https://github-readme-stats.vercel.app/api?username=shadowYEM&&show_icons=true&title_color=ffff88ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spyder15&theme=midnight-purple) | 
+| [![Shadow GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shadowyem&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+ | 
 | --- | --- |
 
 
